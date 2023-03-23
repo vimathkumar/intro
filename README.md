@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm NARENDER SOPPOJU</h1>
+<h1 align="center">Hi 👋, I'm VIMATH KUMAR KONAPALA</h1>
 <h3 align="center">LIKE AN SEMICOLON AND TERMINATES YOUR PROBLEM</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nari2002&label=Profile%20views&color=0e75b6&style=flat" alt="nari2002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nari2002" alt="nari2002" /></a> </p>
 
-- 🔭 I’m currently working on **STUDENT**
+- 🔭 I’m a **fRESHER**
 
 - 🌱 I’m currently learning **django,sql**
 
 - 🤝 I’m looking for help with **get internships**
 
-- 📫 How to reach me **soppojunarender2002@gmail.com**
+- 📫 How to reach me **vimathkumar012@gmail.com**
 
 - ⚡ Fun fact **don't touch if it works..**
 
