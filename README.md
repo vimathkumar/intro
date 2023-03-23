@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm VIMATH KUMAR KONAPALA</h1>
 <h3 align="center">LIKE AN SEMICOLON AND TERMINATES YOUR PROBLEM</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nari2002&label=Profile%20views&color=0e75b6&style=flat" alt="nari2002" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nari2002&label=Profile%20views&color=0e75b6&style=flat" alt="vimath" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nari2002" alt="nari2002" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nari2002" alt="vimath" /></a> </p>
 
 - 🔭 I’m a **fRESHER**
 
@@ -17,10 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/narender soppoju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narender soppoju" height="30" width="40" /></a>
-<a href="https://kaggle.com/soppoju narender" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="soppoju narender" height="30" width="40" /></a>
-<a href="https://fb.com/soppoju narender" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soppoju narender" height="30" width="40" /></a>
-<a href="https://instagram.com/soppoju narender" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soppoju narender" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vimath-kumar-konapala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narender soppoju" height="30" width="40" /></a>
+
+<a href="https://instagram.com/vimathk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soppoju narender" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
